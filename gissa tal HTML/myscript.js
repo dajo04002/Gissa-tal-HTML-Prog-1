@@ -14,7 +14,7 @@ function slump(){
             elementtxt1.innerHTML="Too high";
         }
         else{
-            elementtxt1.innerHTML="YES!";
+            elementtxt1.innerHTML="Correct!";
         }
         document.getElementById("txtcount").innerHTML="Count: " + count;
 }
